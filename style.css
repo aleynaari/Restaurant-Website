@@ -27,3 +27,7 @@
     font-weight: 600;
     font-size: large;
 }
+
+.contNav a {
+    text-decoration: none;
+}
