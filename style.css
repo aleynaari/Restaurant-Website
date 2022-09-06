@@ -24,4 +24,6 @@
     list-style-type: none;
     display: inline-block;  /* horizontally list */
     margin: 0 10px;  /* horizontally list */
+    font-weight: 600;
+    font-size: large;
 }
