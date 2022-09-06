@@ -19,3 +19,7 @@
 .contNav {
     padding-left: 600px;
 }
+
+.contNav ul li {
+    list-style-type: none;
+}
