@@ -10,3 +10,7 @@
     align-items: center; 
 }
 
+.twinForm{
+    display: flex; /* to put 2 div side by side*/
+}
+
