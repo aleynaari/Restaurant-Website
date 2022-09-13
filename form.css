@@ -8,6 +8,8 @@
 .mainform {
     padding: 50px;
     align-items: center; 
+    height: auto;
+    width: fit-content;
 }
 
 .twinForm{
