@@ -14,3 +14,11 @@
     display: flex; /* to put 2 div side by side*/
 }
 
+.twinForm .form1 input {
+    width: 550px;
+    height: 50px;
+    border: none;
+    background-color: #d6e5d8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
