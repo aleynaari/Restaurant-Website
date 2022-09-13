@@ -22,3 +22,12 @@
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
+.twinForm .form2 input, select {
+    width: 600px;
+    height: 50px;
+    border: none;
+    background-color: #d6e5d8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
