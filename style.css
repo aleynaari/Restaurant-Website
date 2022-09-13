@@ -8,7 +8,7 @@
     background-color: #f5fcf4;
 }
 
-/*-----NAV BAR*-----*/
+/*-----NAV BAR START-----*/
 
 .cont {
     width: 100%;
@@ -41,3 +41,5 @@
     padding: 15px;
     border-radius: 8px;
 }
+
+/*-----NAV BAR END-----*/
