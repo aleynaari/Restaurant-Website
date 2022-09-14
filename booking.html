@@ -7,6 +7,7 @@
     <title>Booking | Shaif's Cuisine</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="form.css">
+    
 </head>
 <body>
     <div class="cont">
@@ -21,50 +22,87 @@
                 </ul>
             </div>
     </div>
-<div class="mainform">
-    <div class="twinForm">
-        <div class="form1">
-            <form action="">
-                <label for="name">First Name</label> <br>
-                <input type="text" name="name" id="name"> <br>
-                <label for="email">E-Mail</label> <br>
-                <input type="email" name="email" id="email"> <br>
-                <label for="number">Guest Number</label> <br>
-                <input type="number" name="number" id="number"> <br>
-                <label for="date">Date</label> <br>
-                <input type="date" name="date" id="date"> 
-            </form>
+
+    <div class="mainform">
+        <div class="twinForm">
+            <div class="form1">
+                <form action="">
+                    <label for="name">First Name</label> <br>
+                    <input type="text" name="name" id="name"> <br>
+                    <label for="email">E-Mail</label> <br>
+                    <input type="email" name="email" id="email"> <br>
+                    <label for="number">Guest Number</label> <br>
+                    <input type="number" name="number" id="number"> <br>
+                    <label for="date">Date</label> <br>
+                    <input type="date" name="date" id="date"> 
+                </form>
+            </div>
+            <div class="form2">
+                <form action="">
+                    <label for="lname">Last Name</label> <br>
+                    <input type="text" name="lname" id="lname"> <br>
+                    <label for="table">Table Type</label> <br>
+                    <select name="table" id="table">
+                        <option value="blank">Choose</option>
+                        <option value="small1">Small (2 people)</option>
+                        <option value="small2">Small (4 people)</option>
+                        <option value="large">Large (6 people)</option>
+                    </select> <br>
+                    <label for="place">Placement</label> <br>
+                    <select name="place" id="place">
+                        <option value="blank">Choose</option>
+                        <option value="outdoor">Outdorr</option>
+                        <option value="indoor">Indoor</option>
+                        <option value="rooftop">Rooftop</option>
+                    </select> <br>
+                    <label for="time">Time</label> <br>
+                    <input type="time" name="time" id="time"> 
+                </form>
+            </div>
         </div>
-        <div class="form2">
+        <div class="form3">
             <form action="">
-                <label for="lname">Last Name</label> <br>
-                <input type="text" name="lname" id="lname"> <br>
-                <label for="table">Table Type</label> <br>
-                <select name="table" id="table">
-                    <option value="blank">Choose</option>
-                    <option value="small1">Small (2 people)</option>
-                    <option value="small2">Small (4 people)</option>
-                    <option value="large">Large (6 people)</option>
-                </select> <br>
-                <label for="place">Placement</label> <br>
-                <select name="place" id="place">
-                    <option value="blank">Choose</option>
-                    <option value="outdoor">Outdorr</option>
-                    <option value="indoor">Indoor</option>
-                    <option value="rooftop">Rooftop</option>
-                </select> <br>
-                <label for="time">Time</label> <br>
-                <input type="time" name="time" id="time"> 
+                <label for="note">Note</label> <br>
+                <textarea name="note" id="note" cols="128" rows="5"></textarea> <br>
+                <button type="submit">Book Table</button>
             </form>
         </div>
     </div>
-    <div class="form3">
-        <form action="">
-            <label for="note">Note</label> <br>
-            <textarea name="note" id="note" cols="128" rows="5"></textarea> <br>
-            <button type="submit">Book Table</button>
-        </form>
-    </div>
-</div>
+
+    <footer>
+        <div>
+            <img src="images/logo.svg" alt="">
+            <h3>Fresh and delicious traditional Bangladeshi food to delight the whole family.</h3>
+            <h3>Follow us</h3>
+
+        </div>
+        <div class="info">
+            <ul>
+                <li>Links</li>
+                <li>Home</li>
+                <li>Menu</li>
+                <li>Book Table</li>
+                <li>About Us</li>
+                <li>Contact Us</li>
+                <li>Privacy Policy</li>
+            </ul>
+        </div>
+        <div class="booking">
+            <ul>
+                <li>Support</li>
+                <li>Contact/li>
+                <li>Support Center</li>
+                <li>Feedback</li>
+            </ul>
+        </div>
+        <div>
+            <ul class="booking">
+                <li>Contact</li>
+                <li>+880123</li>
+                <li>webcifar@gmail.com</li>
+                <li>GEC Circle, Chittagong, Bangladesh</li>
+            </ul>
+        </div>
+    </footer>
 </body>
 </html>
