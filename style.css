@@ -75,5 +75,9 @@ footer .social {
     width: 40%;
 }
 
+footer .social img{
+    width: 130px;
+    padding-bottom: 10px;
+}
 
 /*-----FOOTER END-----*/
