@@ -5,6 +5,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+}
+
+body {
     background-color: #f5fcf4;
 }
 
@@ -48,17 +51,12 @@
 
 footer {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     background-color: #d6e5d8;
-    height: 300px;
 }
 
 footer ul {
     list-style-type: none;
-}
-
-footer .social {
-    width: 400px;
 }
 
 
