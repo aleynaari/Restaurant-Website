@@ -49,13 +49,16 @@
 footer {
     display: flex;
     justify-content: space-evenly;
+    width: 1300px;
 }
 
 footer ul {
     list-style-type: none;
 }
 
-
+footer .social {
+    width: 400px;
+}
 
 
 
