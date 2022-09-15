@@ -43,3 +43,18 @@
 }
 
 /*-----NAV BAR END-----*/
+
+/*-----FOOTER START-----*/
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+/*-----FOOTER END-----*/
