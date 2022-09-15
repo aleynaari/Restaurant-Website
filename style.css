@@ -55,6 +55,14 @@ footer {
     background-color: #d6e5d8;
 }
 
+footer .container {
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    padding-top: 50px;
+    margin-bottom: 35px;
+}
+
 footer ul {
     list-style-type: none;
 }
