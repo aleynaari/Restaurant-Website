@@ -94,4 +94,8 @@ footer .social ul li{
     padding: 6px 6px;
 }
 
+footer .social ul img {
+    width: 25px;
+}
+
 /*-----FOOTER END-----*/
