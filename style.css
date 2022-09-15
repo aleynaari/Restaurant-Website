@@ -71,6 +71,9 @@ footer ul {
     list-style-type: none;
 }
 
+footer .social {
+    width: 40%;
+}
 
 
 /*-----FOOTER END-----*/
