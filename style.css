@@ -50,6 +50,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     background-color: #d6e5d8;
+    height: 300px;
 }
 
 footer ul {
