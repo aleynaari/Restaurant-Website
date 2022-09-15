@@ -51,7 +51,9 @@ footer {
     justify-content: space-evenly;
 }
 
-
+footer ul {
+    list-style-type: none;
+}
 
 
 
