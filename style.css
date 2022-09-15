@@ -63,6 +63,10 @@ footer .container {
     margin-bottom: 35px;
 }
 
+footer .info, .booking{
+    line-height: 35px;
+}
+
 footer ul {
     list-style-type: none;
 }
