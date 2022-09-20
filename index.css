@@ -32,3 +32,11 @@
 .infoW a:visited {
     color: #f5fcf4;
 }
+
+.infoW h1 {
+    margin-bottom: 10px;
+}
+
+.infoW p {
+    margin-bottom: 20px;
+}
