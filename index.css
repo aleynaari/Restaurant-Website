@@ -16,3 +16,19 @@
     flex-direction: column;
     justify-content: center;
 }
+
+.infoW a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #26643b;
+    color: #f5fcf4;
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: large;
+}
+
+.infoW a:visited {
+    color: #f5fcf4;
+}
