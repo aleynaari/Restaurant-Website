@@ -8,12 +8,11 @@
     display: flex;
     justify-content: center;
     justify-content: space-evenly;
-
 }
 
 .infoW {
     max-width: 350px;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
-
 }
