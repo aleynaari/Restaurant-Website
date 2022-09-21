@@ -130,5 +130,6 @@
 .discount {
     background-color: #d6e5d8;
     width: 1000px;
+    display: flex;
 }
 /*--DISCOUNT PART END--*/
