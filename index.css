@@ -64,9 +64,17 @@
     display: flex;
 }
 
+.specials1 {
+    width: 300px;
+}
+
 .specials .food1{
     height: 150px;
     border-radius: 10px;
+}
+
+.specials2 {
+    width: 300px;
 }
 
 .specials .food3{
