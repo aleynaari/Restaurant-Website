@@ -60,6 +60,9 @@
 
 /*--CONTACT PART END--*/
 /*--SPECIALS PART START--*/
+.specialsM {
+    display: flex;
+}
 
 .specials .food1{
     height: 150px;
