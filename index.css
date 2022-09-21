@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/*--INFO PART START--*/
 .info {
     display: flex;
     justify-content: center;
@@ -40,3 +40,10 @@
 .infoW p {
     margin-bottom: 20px;
 }
+/*--INFO PART END--*/
+/*--CONTACT PART START--*/
+
+
+
+
+/*--CONTACT PART END--*/
