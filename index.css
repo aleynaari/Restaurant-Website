@@ -131,6 +131,7 @@
     background-color: #d6e5d8;
     width: 1200px;
     display: flex;
+    margin-top: 50px;
 }
 
 .discount .food-1, .food-2, .food-3{
