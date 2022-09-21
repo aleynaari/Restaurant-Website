@@ -66,10 +66,12 @@
 
 .specials .food1{
     height: 150px;
+    border-radius: 10px;
 }
 
 .specials .food3{
     height: 150px;
+    border-radius: 10px;
 }
 
 /*--SPECIALS PART END--*/
