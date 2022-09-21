@@ -64,22 +64,14 @@
     display: flex;
 }
 
-.specials1 {
+.specials1, .specials2 {
     width: 300px;
 }
 
-.specials .food1{
+.specials .food1, .food3{
     height: 150px;
     border-radius: 10px;
 }
 
-.specials2 {
-    width: 300px;
-}
-
-.specials .food3{
-    height: 150px;
-    border-radius: 10px;
-}
 
 /*--SPECIALS PART END--*/
