@@ -55,8 +55,7 @@
         margin: 20px;
         text-align: center;
         border-radius: 10px;
-        display: flex;
-        flex-direction: column;
+        padding: 40px;
     }
 
 /*--CONTACT PART END--*/
