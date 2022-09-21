@@ -120,4 +120,9 @@
     width: 400px;
 }
 
+.dish .food1, .food2, .food3 {
+    height: 130px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
 /*--TOP DISHES PART END--*/
