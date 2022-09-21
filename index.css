@@ -60,11 +60,21 @@
 
 /*--CONTACT PART END--*/
 /*--SPECIALS PART START--*/
-.specialsM {
+.specials {
     display: flex;
+    justify-content: center;
+    margin-top: 50px;
 }
 
 .specials1, .specials2 {
+    width: 300px;
+    background-color: #d6e5d8;
+    border-radius: 10px;
+    padding: 20px;
+    margin-right: 40px;
+}
+
+.specials3 {
     width: 300px;
 }
 
@@ -72,6 +82,7 @@
     height: 150px;
     border-radius: 10px;
 }
+
 
 
 /*--SPECIALS PART END--*/
