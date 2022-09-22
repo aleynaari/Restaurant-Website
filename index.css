@@ -136,7 +136,7 @@
     background-image: url(images/discount-illustration.png);
     background-repeat: no-repeat;
     background-position: right bottom;
-
+    background-size: 150px;
 }
 
 .discount .food-1, .food-2, .food-3{
@@ -147,7 +147,9 @@
     margin-left: 15px;
 
 }
-
+.discountW {
+    margin: 50px;
+}
 .discount a {
     text-decoration: none;
     display: inline-block;
