@@ -142,6 +142,10 @@
 .discount .food-1, .food-2, .food-3{
     height: 350px;
     border-radius: 10px;
+    width: 250px;
+    object-fit: cover;
+    margin-left: 15px;
+
 }
 
 .discount a {
