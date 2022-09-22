@@ -176,12 +176,15 @@
 }
 /*--EVENT PART END--*/
 /*--EVENT INFO PART START--*/
+.eventInfoMain {
+    margin-top: 50px;
+}
+
 .eventInfo {
     display: flex;
     width: 1200px;
     margin: auto;
     padding: 10px;
-    margin-top: 50px;
 }
 
 .eventInfo1 {
