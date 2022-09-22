@@ -233,4 +233,10 @@
     width: 500px;
     display: flex;
 }
+
+.whyIcon {
+    background-color: #d6e5d8;
+    border-radius: 10px;
+    padding: 20px;
+}
 /*--WHY US PART END--*/
