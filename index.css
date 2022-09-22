@@ -231,5 +231,6 @@
 
 .why .why2 {
     width: 500px;
+    display: flex;
 }
 /*--WHY US PART END--*/
