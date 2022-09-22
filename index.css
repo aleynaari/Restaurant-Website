@@ -166,4 +166,12 @@
 }
 /*--DISCOUNT PART END--*/
 /*--EVENT PART START--*/
+.event {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 1200px;
+    margin:auto;
+    margin-top: 50px;
+}
 /*--EVENT PART END--*/
