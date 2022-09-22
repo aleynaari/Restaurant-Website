@@ -240,5 +240,9 @@
     margin: 5px;
     width: 200px;
     height: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 /*--WHY US PART END--*/
