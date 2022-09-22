@@ -143,4 +143,17 @@
     height: 350px;
     border-radius: 10px;
 }
+
+.discount a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #26643b;
+    color: #f5fcf4;
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: large;
+    margin-top: 15px;
+}
 /*--DISCOUNT PART END--*/
