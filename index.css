@@ -221,6 +221,7 @@
 .why {
     display: flex;
     width: 1000px;
+    margin: auto;
 }
 
 .why .why1 {
