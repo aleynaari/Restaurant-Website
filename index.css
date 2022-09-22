@@ -137,6 +137,7 @@
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 150px;
+    border-radius: 10px;
 }
 
 .discount .food-1, .food-2, .food-3{
