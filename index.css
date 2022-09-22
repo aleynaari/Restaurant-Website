@@ -176,4 +176,41 @@
 }
 /*--EVENT PART END--*/
 /*--EVENT INFO PART START--*/
+.eventInfo {
+    display: flex;
+    width: 1200px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.eventInfo1 {
+    display: flex;
+    background-color: #d6e5d8;
+    height: 200px;
+}
+
+.eventInfo .eventInfo1, .eventInfo2{
+    border-radius: 10px;
+    width: 500px;
+    padding: 20px;
+}
+
+.eventInfo img {
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.eventInfo2 a {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #26643b;
+    color: #f5fcf4;
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: large;
+    margin-top: 15px;
+}
 /*--EVENT INFO PART END--*/
