@@ -218,4 +218,9 @@
 }
 /*--EVENT INFO PART END--*/
 /*--WHY US PART START--*/
+.why {
+    display: flex;
+}
+
+
 /*--WHY US PART END--*/
