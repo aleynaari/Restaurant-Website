@@ -131,6 +131,7 @@
     background-color: #d6e5d8;
     width: 1200px;
     display: flex;
+    margin:auto;
     margin-top: 50px;
     padding: 20px;
     background-image: url(images/discount-illustration.png);
