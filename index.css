@@ -250,4 +250,13 @@
 }
 /*--WHY US PART END--*/
 /*--CUSTOMER PART START--*/
+.customer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.customerMain {
+    display: flex;
+}
 /*--CUSTOMER PART END--*/
