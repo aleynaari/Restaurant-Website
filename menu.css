@@ -33,6 +33,11 @@
     flex-direction: column;
 }
 
+.specials .header {
+    margin-left: 125px;
+    margin-bottom: 20px;
+}
+
 .specialsMain {
     display: flex;
     justify-content: center;
