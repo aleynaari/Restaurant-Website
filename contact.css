@@ -1,0 +1,17 @@
+/*--INFO PART START--*/
+.info {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.info .hour, .address, .phone {
+    width: 200px;
+    height: 200px;
+    background-color: #d6e5d8;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px; /*for center the contents*/
+}
+/*--INFO PART END--*/
