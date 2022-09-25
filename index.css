@@ -266,4 +266,8 @@
     height: 250px;
     background-color: #d6e5d8;
 }
+
+.customerD img {
+    border-radius: 10px;
+}
 /*--CUSTOMER PART END--*/
