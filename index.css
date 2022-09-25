@@ -277,4 +277,9 @@
 }
 /*--CUSTOMER PART END--*/
 /*--NEWSLETTER PART START--*/
+.news {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
 /*--NEWSLETTER PART END--*/
