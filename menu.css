@@ -59,6 +59,9 @@
 }
 /*--OUR SPECIALS PART END--*/
 /*--BREAKFAST PART START--*/
+.breakfast .header {
+    margin-left: 50px;
+}
 .breakfastMain {
     display: flex;
     justify-content: space-evenly;
