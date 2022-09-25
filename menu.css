@@ -37,6 +37,10 @@
     justify-content: center;
 }
 
+.specials1 {
+    background-color: #d6e5d8;
+}
+
 .specials1 .food {
     width: 350px;
     border-radius: 10px;
