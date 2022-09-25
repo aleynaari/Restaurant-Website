@@ -32,6 +32,11 @@
     display: flex;
 }
 
+.specialsMain {
+    display: flex;
+    justify-content: center;
+}
+
 .specials1 .food {
     width: 350px;
     border-radius: 10px;
