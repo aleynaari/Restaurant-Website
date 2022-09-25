@@ -59,4 +59,9 @@
 }
 /*--OUR SPECIALS PART END--*/
 /*--BREAKFAST PART START--*/
+.breakfastMain {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
 /*--BREAKFAST PART END--*/
