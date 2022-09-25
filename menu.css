@@ -28,5 +28,7 @@
 }
 /*--TOP DISHES PART END--*/
 /*--OUR SPECIALS PART START--*/
-
+.specials1 {
+    display: flex;
+}
 /*--OUR SPECIALS PART END--*/
