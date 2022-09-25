@@ -13,3 +13,16 @@
     width: 400px;
 }
 /*--OUR STORY PART END--*/
+/*--OUR GOALS PART START--*/
+.ourGoals {
+    margin-top: 50px;
+}
+
+.ourGoals1 {
+    display: flex;
+    flex-direction: column;
+    margin: auto;  /*center*/
+    text-align: center;
+    width: 800px;
+}
+/*--OUR GOALS PART END--*/
