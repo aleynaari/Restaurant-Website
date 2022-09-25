@@ -25,4 +25,13 @@
     text-align: center;
     width: 800px;
 }
+
+.ourGoals2 {
+    display: flex;
+}
+
+.ourGoalsI {
+    display: flex;
+    flex-direction: column;
+}
 /*--OUR GOALS PART END--*/
