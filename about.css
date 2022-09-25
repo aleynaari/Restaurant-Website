@@ -28,6 +28,13 @@
 
 .ourGoals2 {
     display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ourGoals2 img {
+    margin: 10px;
 }
 
 .ourGoalsI {
