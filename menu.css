@@ -74,4 +74,10 @@
     border-radius: 10px;
     width: 400px;
 }
+
+.food {
+    width: 200px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
 /*--BREAKFAST PART END--*/
