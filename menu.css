@@ -1,0 +1,29 @@
+/*--TOP DISHES PART START--*/
+.topDish{
+    margin-top: 50px;
+}
+
+.topDish .header {
+    margin-left: 50px;
+}
+
+.dish {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.dish .dish1, .dish2, .dish3{
+    display: flex;
+    background-color: #d6e5d8;
+    padding: 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.dish .food1, .food2, .food3 {
+    height: 130px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+/*--TOP DISHES PART END--*/
