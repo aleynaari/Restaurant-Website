@@ -31,4 +31,8 @@
 .specials1 {
     display: flex;
 }
+
+.specials1 .food {
+    width: 350px;
+}
 /*--OUR SPECIALS PART END--*/
