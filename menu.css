@@ -28,8 +28,9 @@
 }
 /*--TOP DISHES PART END--*/
 /*--OUR SPECIALS PART START--*/
-.specials1 {
+.specials {
     display: flex;
+    flex-direction: column;
 }
 
 .specialsMain {
@@ -39,6 +40,7 @@
 }
 
 .specials1 {
+    display: flex;
     background-color: #d6e5d8;
     border-radius: 10px;
     padding: 20px;
