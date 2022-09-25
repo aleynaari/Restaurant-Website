@@ -86,3 +86,31 @@
     margin-right: 10px;
 }
 /*--BREAKFAST PART END--*/
+/*--LUNCH PART START--*/
+.lunch  {
+    margin-top: 50px;
+}
+.lunch .header {
+    margin-left: 50px;
+}
+.lunchMain {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lunch1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    background-color: #d6e5d8;
+    padding: 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.food {
+    width: 200px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+/*--LUNCH PART END--*/
