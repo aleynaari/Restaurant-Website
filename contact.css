@@ -16,5 +16,54 @@
 }
 /*--INFO PART END--*/
 /*--FORM PART START--*/
+.mainform {
+    padding: 50px;
+    align-items: center; 
+    height: auto;
+    width: fit-content;
+}
+.twinForm {
+    display: flex;
+}
 
+.twinForm .form1 input {
+    width: 550px;
+    height: 50px;
+    border: none;
+    background-color: #d6e5d8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.twinForm .form2 input {
+    width: 600px;
+    height: 50px;
+    border: none;
+    background-color: #d6e5d8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.twinForm .form2 {
+    padding-left: 20px;
+}
+
+.form3 textarea {
+    width: 1175px;
+    height: 200px;
+    border: none;
+    background-color: #d6e5d8;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.form3 button {
+    background-color: #26643b;
+    color: #f5fcf4;
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+}
 /*--FORM PART END--*/
